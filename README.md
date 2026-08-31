@@ -24,7 +24,7 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-If you prefer a precompiled binary, you can download it from the Releases page.
+If you prefer a precompiled binary, you can download it from the [https://github.com/dbowlin/ConanExilesDatabaseTransfers/releases/tag/v1.0](Releases) page.
 
 ## Save handoff (account rebind)
 
